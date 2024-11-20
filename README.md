@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael Reid <br/><a href="https://github.com/joshmadakor1">Business Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">SharePoint Developer</a>, <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
+<h1>Hi, I'm Michael Reid <br/><a href="https://github.com/joshmadakor1">Business Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">SharePoint Developer</a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
